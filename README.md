@@ -1,6 +1,6 @@
-# 120 Years of Olympics – Data Analysis Project
+# 120 Years of Olympics – Data Analysis
 
-A **Exploratory Data Analysis (EDA) project** implemented in **Python**, analyzing athlete participation, medal trends, and sports diversity across **120 years of the :contentReference[oaicite:0]{index=0}**.
+A **Exploratory Data Analysis (EDA) project** implemented in **Python**, analyzing athlete participation, medal trends, and sports diversity across 120years of olympics
 
 ---
 
@@ -26,12 +26,11 @@ A structured EDA workflow is followed to extract meaningful insights from real-w
 - **Language:** Python  
 - **Libraries Used:** NumPy, Pandas, Matplotlib, Seaborn  
 - **Execution Environment:** Jupyter Notebook  
-- **Programming Style:** Procedural  
 
 ---
 
 ## Application Mechanics
-- Data is loaded and cleaned using **Pandas DataFrames**  
+- Data is loaded and cleaned using **Pandas**  
 - Numerical analysis is performed using **NumPy**  
 - Grouping, filtering, and aggregation techniques are applied  
 - Visualizations are created using Matplotlib and Seaborn  
