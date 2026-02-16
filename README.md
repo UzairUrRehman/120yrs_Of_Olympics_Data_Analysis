@@ -49,5 +49,5 @@ A structured EDA workflow is followed to extract meaningful insights from real-w
 
 - **120-years-of-olympics-eda/**  
   - `120_Years_of_Olympics_EDA.ipynb` → Jupyter Notebook containing the complete EDA  
-  - `athlete_events.csv` → Dataset used for analysis  
+  - `120yrs of olympics.zip` → Dataset used for analysis  
   - `README.md` → Project documentation  
