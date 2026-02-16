@@ -25,7 +25,7 @@ A structured EDA workflow is followed to extract meaningful insights from real-w
 ## Technology Stack
 - **Language:** Python  
 - **Libraries Used:** NumPy, Pandas, Matplotlib, Seaborn  
-- **Execution Environment:** Jupyter Notebook  
+- **Environment:** Jupyter Notebook  
 
 ---
 
